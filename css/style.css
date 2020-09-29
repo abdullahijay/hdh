@@ -1,0 +1,64 @@
+/* Add all your styles here */
+
+ .btn{
+ display:flex;
+ justify-content:center;
+ width: 50%;
+ position: absolute;
+   top:30%;
+   left:25%;
+   background-color:pink;}
+
+
+
+ 
+ 
+
+
+
+.q{
+ display:flex;
+ justify-content:center;
+ width: 50%;
+ position: absolute;
+   top:40%;
+   left:25%;
+   background-color:pink;
+
+}
+
+
+
+.w{
+
+
+ display:flex;
+ justify-content:center;
+ width: 50%;
+ position: absolute;
+   top:50%;
+   left:25%;
+   background-color:pink;
+
+
+
+}
+
+
+ .e{
+ 
+  display:flex;
+ justify-content:center;
+ width: 50%;
+ position: absolute;
+   top:60%;
+   left:25%;
+   background-color:pink;
+
+
+
+ }
+
+
+
+
